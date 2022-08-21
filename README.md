@@ -1,6 +1,5 @@
-    - Hi, I’m @DMoon19 
-    - I’m interested in programming games and learning the types of languages
-    - I’m currently learning basic programming such as C#, Java, SQL, Javascript
-    - I’m looking to collaborate on ...
-    - How to reach me @Dmoon19_
-
+- 🌙 Hi, I’m @DMoon19
+- 👨‍💻 I’m interested in programming games and learning the types of languages
+- 📄 I’m currently learning basic programming such as C#, Java, SQL, Javascript and Python🐍
+- 💻 I’m looking to collaborate on ...
+- 🗣 How to reach me @Dmoon19_
